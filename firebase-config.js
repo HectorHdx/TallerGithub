@@ -4,7 +4,7 @@
 const firebaseConfig = {
   apiKey: "AIzaSyAPWt9ojvLCyzb2jAO7g-onZUk1NxjrtPo",
   authDomain: "caza-estrellas-8dd45.firebaseapp.com",
-  databaseURL: "https://caza-estrellas-8dd45-default-rtdb.firebaseio.com",
+  databaseURL: "https://caza-estrellas-default-rtdb.firebaseio.com",
   projectId: "caza-estrellas-8dd45",
   storageBucket: "caza-estrellas-8dd45.firebasestorage.app",
   messagingSenderId: "620872340553",
