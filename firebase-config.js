@@ -1,6 +1,6 @@
 // En Firebase elige la pestaña Config, copia el bloque completo
 // `const firebaseConfig = { ... };` y reemplaza todo este archivo con él.
-// No copies las líneas de npm, import ni initializeApp.
+// No copies las líneas de npm, import ni initializeApp. dd
 const firebaseConfig = {
   apiKey: "AIzaSyAPWt9ojvLCyzb2jAO7g-onZUk1NxjrtPo",
   authDomain: "caza-estrellas-8dd45.firebaseapp.com",
